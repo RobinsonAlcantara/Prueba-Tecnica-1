@@ -15,6 +15,14 @@ Este sistema automatiza el proceso de auditoría y conciliación financiera cruz
 * `src/ai_analyzer.py`: Integración con OpenAI API empleando JSON estructurado.
 * `src/app.py`: Frontend interactivo en Streamlit.
 
+## Instalacion
+
+1. Descargue los archivos desde el repositorio de github (https://github.com/RobinsonAlcantara/Prueba-Tecnica-1)
+2. Instale los requerimientos que se encuentran en el archivo requirements.txt utilizando la instruccion "pip install -r requirements.txt" desde su terminal en la carpeta raiz del proyecto.
+3. Ejecute la instruccion "python -m streamlit run src/app.py" para iniciar el proyecto o solucion desde la raiz del proyecto. 
+
+**Si quiere usar la aplicacion directamente puede dirigirse a la URL https://robinsonalcantara-prueba-tecnica-1-srcapp-zdvidl.streamlit.app/**
+
 ## 📖Guía de Usuario: Validador de facturas impulsado por IA
 
 Bienvenido al Validador de facturas impulsado por IA. Esta plataforma te permite auditar reportes financieros y de horas de forma automática, detectando errores humanos de cobro y utilizando Inteligencia Artificial para entender los problemas y proponer soluciones.
