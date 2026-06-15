@@ -15,7 +15,7 @@ Este sistema automatiza el proceso de auditoría y conciliación financiera cruz
 * `src/ai_analyzer.py`: Integración con OpenAI API empleando JSON estructurado.
 * `src/app.py`: Frontend interactivo en Streamlit.
 
-## Instalacion
+## 💻 Instalacion en local
 
 1. Descargue los archivos desde el repositorio de github (https://github.com/RobinsonAlcantara/Prueba-Tecnica-1)
 2. Instale los requerimientos que se encuentran en el archivo requirements.txt utilizando la instruccion "pip install -r requirements.txt" desde su terminal en la carpeta raiz del proyecto.
